@@ -5,12 +5,9 @@ body {
 }
 
 .title-mehdi h2 {
-  padding-left: 100px;
+  padding-left: 50px;
 }
 
-.photo-mehdi img {
-  margin-left: 100px;
-}
 
 h1 {
   color: #575F7D;
@@ -68,7 +65,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
-  border-left: 4px solid #BF0000;
+  border-left: 4px solid #FC2149;
 }
 
 .card-white > h4 {
@@ -81,7 +78,7 @@ h4 {
 
 
 .btn-rose {
-  background-color: #BF0000;
+  background-color: #FC2149;
   color: white;
   padding: 16px;
   line-height: 50px;
@@ -238,7 +235,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   list-style: none;
-  border-left: 4px solid #BF0000;
+  border-left: 4px solid #FC2149;
 }
 
 .educational > h4 {
